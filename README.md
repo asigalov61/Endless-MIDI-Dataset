@@ -25,7 +25,7 @@ PLEASE NOTE: YOU MUST LOAD MIDI FILES IN ORDER TO ACHIEVE ENDLESS CAROUSEL EFFEC
 
 1) Multiple Intertwined Carousels
 2) Multiple Converging Carousels
-3) Ultimate design: Spherical Mesh
+3) Ultimate design: Full Spherical Mesh
 
 ***
 
