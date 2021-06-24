@@ -1,2 +1,2 @@
 # Endless-MIDI-Dataset
-A novel MIDI dataset for SOTA Music AI purposes
+Novel MIDI dataset for SOTA Music AI purposes
