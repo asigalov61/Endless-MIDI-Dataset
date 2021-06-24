@@ -11,5 +11,7 @@
 
 PLEASE NOTE: YOU MUST LOAD MIDI FILES IN ORDER TO ACHIEVE ENDLESS CAROUSEL EFFECT
 
+***
 
-
+#### Project Los Angeles
+#### Tegridy Code 2021
