@@ -1,5 +1,13 @@
 # Endless-MIDI-Dataset
-## Novel MIDI dataset for SOTA Music AI purposes
+## A novel MIDI dataset for SOTA Music AI purposes
+
+***
+
+### Benefits:
+
+1) Endless and seamless music generation
+2) No more choking, especially at seams. Ever!
+3) Significantly outperforms traditional MIDI datasets
 
 ***
 
