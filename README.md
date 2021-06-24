@@ -4,6 +4,7 @@
 ***
 
 ### Endless Violin Carousel MIDI Dataset
+### MIDI0 / Contemporary Classical style / Violin-Piano duo
 
 1) Fully hand-crafted
 2) AI-friendly (perfect timings)
