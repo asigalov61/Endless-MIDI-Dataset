@@ -21,6 +21,17 @@
 PLEASE NOTE: YOU MUST LOAD MIDI FILES IN ORDER TO ACHIEVE ENDLESS CAROUSEL EFFECT
 
 ***
+### Alternative but more complex proposed MIDI datasets designs:
+
+1) Multiple Intertwined Carousels
+2) Multiple Converging Carousels
+3) Ultimate design: Spherical Mesh
+
+***
+
+### All of these proposed and presented dataset designs would work equally well for Text NLP puposes and perhaps even for Visual NLP purposes.
+
+***
 
 #### Project Los Angeles
 #### Tegridy Code 2021
