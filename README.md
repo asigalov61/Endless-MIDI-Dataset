@@ -11,21 +11,30 @@
 
 ***
 
-### Endless Violin Carousel MIDI Dataset
-### MIDI0 / Contemporary Classical style / Violin-Piano duo
+### Endless Piano Carousel MIDI Dataset
+### MIDI0 / Contemporary Classical style / Solo Piano
 
 1) Fully hand-crafted
 2) AI-friendly (perfect timings)
 3) Endless Carousel design
 
-PLEASE NOTE: YOU MUST LOAD MIDI FILES IN ORDER TO ACHIEVE ENDLESS CAROUSEL EFFECT
+***
+
+### Endless Violin Carousel MIDI Dataset
+### MIDI0 / Contemporary Classical style / Violin-Piano Duo
+
+1) Fully hand-crafted
+2) AI-friendly (perfect timings)
+3) Endless Carousel design
+
+PLEASE NOTE: YOU MUST LOAD MIDI FILES IN THE INDICATED ORDER IF YOU WANT TO ACHIEVE ENDLESS CAROUSEL EFFECT
 
 ***
 ### Alternative but more complex proposed MIDI datasets designs:
 
 1) Multiple Intertwined Carousels
 2) Multiple Converging Carousels
-3) Ultimate design: Full Spherical Mesh
+3) Ultimate design: Interconnected Spherical Mesh
 
 ***
 
