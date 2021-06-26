@@ -27,6 +27,8 @@
 2) AI-friendly (perfect timings)
 3) Endless Carousel design
 
+***
+
 PLEASE NOTE: YOU MUST LOAD MIDI FILES IN THE INDICATED ORDER IF YOU WANT TO ACHIEVE ENDLESS CAROUSEL EFFECT
 
 ***
