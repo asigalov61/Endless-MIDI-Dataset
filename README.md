@@ -39,7 +39,7 @@ PLEASE NOTE: YOU MUST LOAD MIDI FILES IN THE INDICATED ORDER IF YOU WANT TO ACHI
 
 1) Multiple Intertwined Carousels
 2) Multiple Converging Carousels
-3) Ultimate design: Interconnected Spherical Mesh
+3) Ultimate design: Interconnected Spherical Mesh Carousel
 
 ***
 
