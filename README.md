@@ -3,7 +3,7 @@
 
 ***
 
-### IMHO the best AI dataset is really just a complete, endless, and relevant story that is told sincerely with utmost love, care, and attention. ---Al
+### IMHO the best AI dataset is really just a complete, endless, and relevant story that is told sincerely with utmost love, care, and attention to details. ---Al
 
 ***
 
